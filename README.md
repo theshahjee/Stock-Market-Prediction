@@ -68,7 +68,7 @@ Confusion matrices for both training and test data were generated to analyze the
 ## How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/theshahjee/Stock-Markey-Prediction.git
+git clone https://github.com/theshahjee/Stock-Market-Prediction.git
 
 
 2. Install the required libraries:
