@@ -72,3 +72,16 @@ git clone https://github.com/theshahjee/Stock-Markey-Prediction.git
 
 
 2. Install the required libraries:
+pip install -r requirements.txt
+
+3. Run the Jupyter Notebook or script to train the model and make predictions.
+
+## Future Work
+
+- Implement additional technical indicators.
+- Explore other machine learning models (e.g., XGBoost, Neural Networks).
+- Improve feature engineering and hyperparameter tuning for better prediction accuracy.
+
+## License
+
+This project is licensed under the MIT License.
